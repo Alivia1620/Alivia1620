@@ -11,10 +11,10 @@ I completed my bachelor in Mediology, and am currently a Master student in Medio
 | **Aalborg University, Copenhagen** | Bachelor of Science in Medialogy | *2021 - 2024* |
 | **Nørre Gymnasium (STX)** | Musik A, Engelsk A & Samfundsfag B | *2015 - 2018* |
 
-## Skills & Tools
+## 🔨 Skills & Tools
 Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visual Studio Code, Python, C#, PureData.
 
-## Projects
+## 📃 Projects
 
 * https://github.com/HurtigSkelet/Voidfishing
 * https://github.com/Alivia1620/Dancing-Grandma
