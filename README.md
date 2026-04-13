@@ -17,7 +17,7 @@ Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visua
 ## Projects
 
 * https://github.com/Alivia1620/Dancing-Grandma
-* 
+* https://github.com/DiscoLucas/P6-Project
 <!---
 Alivia1620/Alivia1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
