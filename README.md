@@ -7,8 +7,8 @@ I completed my bachelor in Mediology, and am currently a Master student in Medio
 
 | Institution | Degree / Focus | Timeline |
 | :--- | :--- | :--- |
-| **Aalborg University, Copenhagen** | Master of Science in Medialogy (Cand.Scient.) | *2025 – 2027 (Expected)* |
-| **Aalborg University, Copenhagen** | Bachelor of Science in Medialogy | *2021 – 2024* |
+| **Aalborg University, Copenhagen** | Master of Science in Medialogy (Cand.Scient.) | *2025 - 2027 (Expected)* |
+| **Aalborg University, Copenhagen** | Bachelor of Science in Medialogy | *2021 - 2024* |
 | **Nørre Gymnasium (STX)** | Musik A, Engelsk A & Samfundsfag B | *2015 - 2018* |
 
 ## Skills & Tools
@@ -16,11 +16,16 @@ Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visua
 
 ## Projects
 
+* https://github.com/HurtigSkelet/Voidfishing
 * https://github.com/Alivia1620/Dancing-Grandma
 * https://github.com/Akaidus/VR-game-pait
 * https://github.com/deadlap/Project-505
+* https://github.com/DiscoLucas/Froge
 * https://github.com/DiscoLucas/P6-Project
+* https://github.com/FBKrog/Nordic-Game-Jam-2024
 * https://github.com/DiscoLucas/P4-Project
+* https://github.com/DiscoLucas/P3-Project
+* https://github.com/DangelTheMangel/P2-semester-project
 <!---
 Alivia1620/Alivia1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
