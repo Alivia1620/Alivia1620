@@ -14,6 +14,9 @@ I completed my bachelor in Mediology, and am currently a Master student in Medio
 ## Skills & Tools
 Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visual Studio Code, Python, C#, PureData.
 
+## Projects
+
+| 
 <!---
 Alivia1620/Alivia1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
