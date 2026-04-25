@@ -18,8 +18,8 @@ Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visua
 | Preview  | Project Details |
 | ------------- | ------------- |
 |[<img width="1280" height="720" alt="billede" src="https://github.com/user-attachments/assets/f7feb708-3ea4-4968-8e9e-49d57ad411b0"/>](https://github.com/HurtigSkelet/Voidfishing) | [**Fishing At The End of Time**](https://dangelthemangel.itch.io/void-fishing) <br/> <br/> **Role:** Graphical design and Artist, Game Designer <br/> <br/> **Description**: This game was made during NGJ 2026 which theme was *Nothing*. There is no plot, but there is a fishing minigame. You are a skeleton on an island in a destroyed world, where the only company you have is a black hole. The thing to do is fish after furniture and then decorate this island.<br/> <br/> **Tech Stack:** Krita, Unity <br/> <br/> **Links:** [Showcase Video](https://www.youtube.com/watch?v=RhBZbQPWEKs)|
-* https://github.com/HurtigSkelet/Voidfishing
-* https://github.com/Alivia1620/Dancing-Grandma
+|[<img width="1280" height="720" alt="billede" src="https://github.com/user-attachments/assets/8dc47991-e58e-492a-999d-d7f74a2f44cb"/>]( https://github.com/Alivia1620/Dancing-Grandma)|**Dancing Intensity** <br/> <br/> **Role** Python Coder, Developer, Researcher <br/> <br/> **Description**: We created an adaptive freestyle dance experience in Unreal Engine that reacts to player movement intensity through dynamic lighting, sound, crowd responses, and narrative changes, to test if the participant would dance more intensly due to these responses. [Showcase Video](https://drive.google.com/file/d/1YTIBlpfiWWWCEB_LT4vAdCfNrfJivSBg/view?usp=sharing)
+|
 * https://github.com/Akaidus/VR-game-pait
 * https://github.com/deadlap/Project-505
 * https://github.com/DiscoLucas/Froge
