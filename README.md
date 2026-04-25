@@ -17,7 +17,7 @@ Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visua
 ## 📃 Projects
 | Preview  | Project Details |
 | ------------- | ------------- |
-|<img width="1280" height="720" alt="billede" src="https://github.com/user-attachments/assets/f7feb708-3ea4-4968-8e9e-49d57ad411b0"/> | **Fishing At The End of Time** <br/> <br/> **Role:** Graphical design and Artist, Game Designer <br/> <br/> **Description**: This game was made during NGJ 2026 which theme was *Nothing*. There is no plot, but there is a fishing minigame. You are a skeleton on an island in a destroyed world, where the only company you have is a black hole. The thing to do is fish after furniture and then decorate this island.<br/> <br/> **Tech Stack:** Krita, Unity <br/> <br/> **Links:** [Showcase Video](https://www.youtube.com/watch?v=RhBZbQPWEKs)|
+|[<img width="1280" height="720" alt="billede" src="https://github.com/user-attachments/assets/f7feb708-3ea4-4968-8e9e-49d57ad411b0"/>](https://github.com/HurtigSkelet/Voidfishing) | [**Fishing At The End of Time**](https://dangelthemangel.itch.io/void-fishing) <br/> <br/> **Role:** Graphical design and Artist, Game Designer <br/> <br/> **Description**: This game was made during NGJ 2026 which theme was *Nothing*. There is no plot, but there is a fishing minigame. You are a skeleton on an island in a destroyed world, where the only company you have is a black hole. The thing to do is fish after furniture and then decorate this island.<br/> <br/> **Tech Stack:** Krita, Unity <br/> <br/> **Links:** [Showcase Video](https://www.youtube.com/watch?v=RhBZbQPWEKs)|
 * https://github.com/HurtigSkelet/Voidfishing
 * https://github.com/Alivia1620/Dancing-Grandma
 * https://github.com/Akaidus/VR-game-pait
