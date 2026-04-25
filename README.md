@@ -22,12 +22,10 @@ Unity, Unreal Engine, Blender, Figma, Trello, GitHub, Krita, Visual Studio/Visua
 |[<img width="1280" height="1280" alt="billede" src="https://github.com/user-attachments/assets/b867c4d4-b974-45d0-8d35-51481a2635fb" />](https://github.com/deadlap/Project-505)| **P5/DeepDive: The relationship between fear and enjoyment** <br/> <br/> **Role:** Researcher, 3D modeller, Artist, Game Developer <br/> <br/> **Description:** We designed and tested a cinematic VR horror experience to explore whether fear and enjoyment correlate in virtual environments.<br/> <br/> **Tech Stack:** Unity, Blender, Visual Studio Code <br/>|
 |[<img width="974" height="615" alt="billede" src="https://github.com/user-attachments/assets/356b3beb-f099-4bea-b7f8-0b631b07c266" />](https://github.com/Akaidus/VR-game-pait)|[**A.R.M. Bot Adventure**](https://deadpiegamer.itch.io/arm-bot) <br/> <br/> **Role:** Game Developer, Artist <br/><br/> **Description:** Use your arms to jump and swing around in these 10 obstacle courses of rising difficulty! Aim for the fastest time! <br/> <br/> **Tech Stack:** Unity, Blender, Krita <br/> <br/> **Links:** [Showcase Video](https://www.youtube.com/watch?v=EwwC-0_O20Y&t=1s)|
 |[<img width="1344" height="792" alt="billede" src="https://github.com/user-attachments/assets/d3c31fb6-e6ac-41ad-b427-af98c222b3fa" />](https://github.com/DiscoLucas/P6-Project)|[**Bonds simulator for students**](https://dangelthemangel.itch.io/finansraadgiver)<br/> <br/> **Role:** Game Developer, User Testing, Artist <br/> <br/> **Description:** The objective of the project was to create a game that assists students in economics to learn about bond, and to evaluate if games in an educational setting affect learning. This was a partnership with a lecturer at CPHBuisness <br/> <br/> **Tech Stack:** Unity, Krita, Blender, Visual Studio Code <br/>|
+|[<img width="1497" height="804" alt="billede" src="https://github.com/user-attachments/assets/211ccc9c-232b-4df1-855e-cc00f67bccdb"/>](https://github.com/FBKrog/Nordic-Game-Jam-2024)|**Magnificent Mirror Mansion** <br/> <br/> **Role:** Artist, Game Level Designer, Game Developer, Coder <br/> <br/> **Description:** This is a puzzle game made during NGJ 2024. The point is to use the mirror to solve the puzzles <br/> <br/> **Tech Stack:** Unity, Blender, Visual Studio Code <br/>|
 |img|desc|
 |img|desc|
 |img|desc|
-|img|desc|
-* 
-* https://github.com/FBKrog/Nordic-Game-Jam-2024
 * https://github.com/DiscoLucas/P4-Project
 * https://github.com/DiscoLucas/P3-Project
 * https://github.com/DangelTheMangel/P2-semester-project
