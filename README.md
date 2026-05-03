@@ -1,4 +1,4 @@
-<img width="1122" height="626" alt="billede" src="https://github.com/user-attachments/assets/23e07246-2c21-4095-b864-f72f499f4c15" /><h1 align="center"> Hi, I'm Alba Simonsen 😎</h1>
+<h1 align="center"> Hi, I'm Alba Simonsen 😎</h1>
 
 ## 🤔 About Me
 I completed my bachelor in Mediology, and am currently a Master student in Mediology at Aalborg University in Copenhagen. I specialized in developing innovative digital solutions that enhance user experiences, games and web applications. My academic background spans various disciplines, including Programming, image processing, Audio Processing, 3D modelling, UX/UI, Data Visualization, Machine Learning and Graphic Design. Additionally, I have gained expertise in problem-based learning (PBL) and agile methodologies such as Scrum, enabling me to collaborate effectively in team-based projects.
